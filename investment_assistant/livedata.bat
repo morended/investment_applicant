@@ -1,0 +1,1 @@
+C:\wamp64\bin\php\php7.0.10\php-win.exe -f C:/wamp64/www/investment_assistant/insertLiveData.php

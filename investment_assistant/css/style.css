@@ -1,0 +1,185 @@
+body {
+	font-family: 'Nunito', sans-serif;
+	color: #163956;
+	background: #FFFFFF repeat;
+}
+
+a {
+	color: #197519;
+	font-family: 'Exo';
+	font-weight: 900;
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 1.750em;
+	font-weight: 100;
+	letter-spacing: -1.5px;
+}
+
+h2 {
+	font-weight: 600;
+	font-size: 1.500em;
+	color: #197519;
+}
+
+h3 {
+	font-weight: 100;
+	font-size: 1.125em;
+	color: #197519;
+}
+
+
+.btn {
+	padding: 5px 20px;
+	margin: 40px 40px 40px 40px;
+	color: #ffffff;
+	background: #163956;
+	border-radius: 25px;
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	text-transform: uppercase;
+}
+
+.btn:hover {
+	background-color: #197519;
+}
+
+
+.btn-small {
+	padding: 5px 15px;
+	margin: 20px 0;
+	color: #FFFFFF;
+	font-size: .75em;
+	background: #163956;
+	border-radius: 25px;
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	text-transform: uppercase;
+}
+
+.btn-small:hover {
+	
+	background-color: #197519;
+}
+
+.submit-btn {
+	padding: 10px 25px;
+	margin: 20px 0 50px 0;
+	color: #faf3bc;
+	font-family: 'Nunito', sans-serif;
+	border: 0;
+	font-weight: 100;
+	font-size: .75em;
+	background: #b22316 url('texture.png') no-repeat right top;;
+	border-radius: 25px;
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	text-transform: uppercase;
+}
+
+ul.nav {
+	margin: 20px 0 0 0;
+	list-style: none;
+	float: right;
+}
+
+ul.nav li {
+	float: left;
+	margin-right: 0px;
+}
+
+ul.nav li.last {
+	margin: 0 0 20px 35px;
+	padding: 5px 20px;
+	color: #FFFFFF;
+	font-family: 'Exo', sans-serif;
+	border: 0;
+	font-weight: 900;
+	font-size: 1.00em;
+	background: #163956;
+	border-radius: 25px;
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 20px;
+	text-transform: uppercase;
+}
+
+ul.nav li.last:hover {
+		background-color: #197519;
+}
+
+ul.nav li a {
+	color: #FFFFFF;
+	font-family: 'Nunito', sans-serif;
+	display: block;
+	text-decoration: none;
+}
+
+#intro {
+	margin: 50px 0 0px 80px;
+	color: #163956;
+	text-align: center;
+}
+
+#symbols img {
+	border: 0px solid #6A87A6;
+	margin: 0 5px 20px 0;
+	border-radius: 20px;
+}
+
+#team img {
+	border: 5px solid #6A87A6;
+	border-radius: 20px;
+	margin: 0 0 0 0;
+}
+
+#tools img{
+	border: 5px solid #6A87A6;
+	border-radius: 20px;
+	margin: 0 0 20px 0px;
+}
+
+#txtpred{
+	margin: 0 0 20px 0px;
+	color: ;
+	font-weight: 900;
+}
+
+#contact span{
+	color: #b22316;
+	font-weight: 600;
+}
+
+#copyright {
+	border-top: 8px solid #163956;
+	padding: 10px 0;
+	margin: 15px 0;
+	text-align: center;
+}
+
+#tabs {
+	border-bottom: 8px solid #163956;
+	margin: 0 0 40px 0;
+	text-align: center;
+}
+
+#link {
+	margin: 0 0 40px 0;
+	text-align: center;
+}
+
+#form{
+	margin: 80px 80px 20px 45px;
+	border: 5px solid #197519;
+	border-radius: 30px;
+}
+
+#prices{
+	font-family: 'Exo', sans-serif;
+	padding: 50px 0;
+	margin: 20px 20px 20px 0;
+	border: 5px solid #197519;
+	border-radius: 30px;
+}
+
+

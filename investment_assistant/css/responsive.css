@@ -1,0 +1,89 @@
+/* Site Colors:
+  #1A446C - blue grey
+  #689DC1 - light blue
+  #D4E6F4 - very light blue
+
+
+  #19212e - dark blue
+  #2f3649 - pale blue
+  #2769d7 - bright blue
+  #f0f0f0 -  light grey
+*/
+@media screen and (min-width: 480px) {
+
+  /********************
+  TWO COLUMN LAYOUT
+  ********************/
+
+  #primary {
+    width: 50%;
+    float: left;
+  }
+
+  #seondary {
+    width: 40%;
+    float: right;
+  }
+
+
+
+  /********************
+  PAGE: PORTFOLIO
+  ********************/
+
+  #gallery li {
+    width: 28.3333%;
+  }
+
+  #gallery li:nth-child(4n) {
+    clear: left;
+  }
+
+  /********************
+  PAGE; ABOUT
+  ********************/
+
+.profile-photo {
+    float: left;
+    margin: 0 5% 80px 0;
+  }
+
+  @media screen and (min-width: 660px) {
+
+}
+
+  /********************
+  HEADER
+  ********************/
+
+  nav {
+    background: none;
+    float: right;
+    font-size: 1.125em;
+    margin-right: 5%;
+    text-align: right;
+    width: 45%;
+  }
+
+#logo {
+    float: left;
+    margin-left: 5%;
+    text-align: left;
+    width: 45%;
+  }
+
+  h1 {
+    font-size: 2.5em;
+  }
+
+  h2 {
+    font-size: 0.0825em;
+    margin-bottom: 20px;
+  }
+
+  header {
+    border-bottom: 5px solid #2769d7;
+    margin-bottom: 60px;
+  }
+
+}
